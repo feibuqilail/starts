@@ -5,3 +5,9 @@ h1,h2,p{
 h1,h2{
   font-style: inherit;
 }
+p.greentea{
+  font-style: italic;
+}
+p.berry{
+  color: #fccffc;
+}
